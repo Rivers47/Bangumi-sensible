@@ -2,7 +2,7 @@
 Bangumi-sensible, a block list of Bangumi.tv users that should be acceptable by everyone.
 
 # 一个所有人都应该屏蔽的Bangumi用户列表
-本项目皆在提供一个列表收集Bangumi.tv上的巨魔、低俗、抽象，不对网站和你的体验提供任何正面价值的用户。请使用如 [神户小德的插件](https://bgm.tv/dev/app/661) 屏蔽用户 （支持导入导出）。
+本项目皆在提供一个列表收集Bangumi.tv上的巨魔、低俗、抽象，不对网站和你的体验提供任何正面价值的用户。请使用如 [神戸小鳥的插件](https://bgm.tv/dev/app/661) 屏蔽用户 （支持导入导出）。
 
 # 如果你认为xxx用户应该被所有用户屏蔽
 
