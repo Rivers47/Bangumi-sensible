@@ -8,7 +8,7 @@ Bangumi-sensible, a block list of Bangumi.tv users that should be acceptable by 
 
 请提交PR添加一个文件名为该用户id的文件，内容包含
 - 理由简述
-- 至少一个该用户的帖子链接用以证明所述理由
+- 至少一个该用户的帖子链接，或用户的言论引用用以证明所述理由
 
 # 如果你被这个repo屏蔽了
 
